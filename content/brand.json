@@ -1,0 +1,540 @@
+{
+  "template": "retail",
+  "defaultLang": "ar",
+  "name": {
+    "ar": "جلوس كوزمتكس أسيوط",
+    "en": "Gloss Cosmetics Assiut"
+  },
+  "fullName": {
+    "ar": "Gloss Cosmetics Assiut",
+    "en": "Gloss Cosmetics Assiut"
+  },
+  "tagline": {
+    "ar": "مكياجك الأصلي… في قلب أسيوط",
+    "en": "Original cosmetics, in the heart of Assiut"
+  },
+  "about": {
+    "ar": "محل متخصص في مستحضرات التجميل والعناية بالبشرة في شارع المهندسين بأسيوط. بنوفر منتجات أصلية من ماركات زي Forever 52 و SHEGLAM: ايشادو وكونسيلر وايلاينر وهايلايتر وفرش مكياج، وبنشرح كل منتج واستخداماته قبل ما تشتريه.",
+    "en": "A cosmetics and skincare store on El Mohandeseen Street in Assiut. We stock original products from brands such as Forever 52 and SHEGLAM — eyeshadow, concealer, eyeliner, highlighter and makeup brushes — and we explain how each one is used before you buy."
+  },
+  "colors": {
+    "primary": "#1a1512",
+    "accent": "#c2983f",
+    "bg": "#faf6f1",
+    "text": "#1a1512"
+  },
+  "logo": "/images/logo.png",
+  "logoSquare": "/images/logo-square.jpg",
+  "stats": [
+    {
+      "n": "11.6K",
+      "label": {
+        "ar": "متابع على فيسبوك",
+        "en": "Facebook followers"
+      }
+    },
+    {
+      "n": "6.5K",
+      "label": {
+        "ar": "متابع على إنستجرام",
+        "en": "Instagram followers"
+      }
+    },
+    {
+      "n": "24/7",
+      "label": {
+        "ar": "الصفحة مفتوحة دائمًا",
+        "en": "Always open"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "verified",
+      "title": {
+        "ar": "منتجات أصلية",
+        "en": "Original products"
+      },
+      "text": {
+        "ar": "Original cosmetics store — زي ما مكتوب في صفحتنا، منتجات أصلية مش تقليد.",
+        "en": "An original cosmetics store, as our page says — genuine products, not imitations."
+      }
+    },
+    {
+      "icon": "sparkle",
+      "title": {
+        "ar": "ماركات عالمية",
+        "en": "International brands"
+      },
+      "text": {
+        "ar": "Forever 52 و SHEGLAM وغيرهم، متوفرين عندنا في أسيوط.",
+        "en": "Forever 52, SHEGLAM and more, available here in Assiut."
+      }
+    },
+    {
+      "icon": "chat",
+      "title": {
+        "ar": "بنشرحلك المنتج",
+        "en": "We explain each product"
+      },
+      "text": {
+        "ar": "كل منتج معاه شرح لاستخدامه ومميزاته، واسألينا في أي وقت.",
+        "en": "Every product comes with how to use it and what it does. Ask us any time."
+      }
+    },
+    {
+      "icon": "pin",
+      "title": {
+        "ar": "في شارع المهندسين",
+        "en": "On El Mohandeseen St"
+      },
+      "text": {
+        "ar": "تعالي المحل وجربي، أو اسألي على المنتج في الرسايل.",
+        "en": "Visit the store and try, or ask about a product in messages."
+      }
+    }
+  ],
+  "cats": [
+    {
+      "key": "eyes",
+      "ar": "عيون",
+      "en": "Eyes"
+    },
+    {
+      "key": "face",
+      "ar": "وجه",
+      "en": "Face"
+    },
+    {
+      "key": "lips",
+      "ar": "شفاه",
+      "en": "Lips"
+    },
+    {
+      "key": "tools",
+      "ar": "فرش وأدوات",
+      "en": "Brushes & tools"
+    }
+  ],
+  "brands": [
+    "Forever 52",
+    "SHEGLAM"
+  ],
+  "products": [
+    {
+      "id": "color-me-out",
+      "brand": "Forever 52",
+      "name": {
+        "ar": "باليت ايشادو Color Me Out",
+        "en": "Color Me Out Palette"
+      },
+      "cat": "eyes",
+      "count": 4,
+      "blurb": {
+        "ar": "باليت فيها 50 درجة، بينك وبيج وألوان ترابية، مات وشيمر.",
+        "en": "A 50-shade palette: pinks, beiges and earth tones, matte and shimmer."
+      },
+      "points": [
+        {
+          "ar": "50 درجة بتنوع مميز",
+          "en": "50 shades with a wide range"
+        },
+        {
+          "ar": "مات وشيمر سهلة الدمج",
+          "en": "Matte and shimmer, easy to blend"
+        },
+        {
+          "ar": "ألوانها قوية وثابتة طوال اليوم",
+          "en": "Strong pigment, lasts all day"
+        }
+      ],
+      "tag": {
+        "ar": "50 لون",
+        "en": "50 shades"
+      }
+    },
+    {
+      "id": "naturals-palette",
+      "brand": "Forever 52",
+      "name": {
+        "ar": "باليت ايشادو Naturals",
+        "en": "Naturals Eyeshadow Palette"
+      },
+      "cat": "eyes",
+      "count": 4,
+      "blurb": {
+        "ar": "باليت شادو 32 لون، درجاتها متنوعة فهتناسب أي لوك لمناسبة أو خروج.",
+        "en": "A 32-shade palette with a varied range that suits any look."
+      },
+      "points": [
+        {
+          "ar": "32 درجة متنوعة",
+          "en": "32 varied shades"
+        },
+        {
+          "ar": "الألوان مات وشيمر قوية",
+          "en": "Strong matte and shimmer shades"
+        },
+        {
+          "ar": "هتدوم معاكي طول اليوم",
+          "en": "Stays on all day"
+        }
+      ],
+      "tag": {
+        "ar": "32 لون",
+        "en": "32 shades"
+      }
+    },
+    {
+      "id": "camouflage-palette",
+      "brand": "Forever 52",
+      "name": {
+        "ar": "باليت Camouflage HD",
+        "en": "Camouflage HD Palette"
+      },
+      "cat": "face",
+      "count": 4,
+      "blurb": {
+        "ar": "باليت متكاملة 16 درجة: كونتور وكونسيلر وهايلايت وكوريكتور في علبة واحدة.",
+        "en": "A complete 16-shade palette: contour, concealer, highlight and corrector in one."
+      },
+      "points": [
+        {
+          "ar": "6 درجات كونتور و3 كونسيلر",
+          "en": "6 contour and 3 concealer shades"
+        },
+        {
+          "ar": "5 درجات كوريكتور للهالات والحبوب والتصبغات",
+          "en": "5 correctors for dark circles, blemishes and pigmentation"
+        },
+        {
+          "ar": "كريمى وناعم وسهل الدمج",
+          "en": "Creamy, soft and easy to blend"
+        },
+        {
+          "ar": "تقدري تستخدمي بعض الدرجات كبديل للفاونديشن",
+          "en": "Some shades work in place of foundation"
+        }
+      ],
+      "tag": {
+        "ar": "16 درجة",
+        "en": "16 shades"
+      }
+    },
+    {
+      "id": "complete-concealer",
+      "brand": "Forever 52",
+      "name": {
+        "ar": "كونسيلر Complete Coverage",
+        "en": "Complete Coverage Concealer"
+      },
+      "cat": "face",
+      "count": 4,
+      "blurb": {
+        "ar": "تغطية قوية للهالات السوداء وآثار التعب، وبيملى التجويف تحت العين.",
+        "en": "Strong coverage for dark circles and tiredness, filling the hollow under the eye."
+      },
+      "points": [
+        {
+          "ar": "تغطيته قوية ومش بيخطط ولا يأكسد",
+          "en": "High coverage, no creasing or oxidising"
+        },
+        {
+          "ar": "بينوّر منطقة تحت العين",
+          "en": "Brightens under the eye"
+        },
+        {
+          "ar": "مظهر طبيعي وثابت طول اليوم",
+          "en": "Natural finish, lasts all day"
+        }
+      ]
+    },
+    {
+      "id": "four-color-concealer",
+      "brand": "Forever 52",
+      "name": {
+        "ar": "كونسيلر 4 درجات",
+        "en": "4 Color Concealer"
+      },
+      "cat": "face",
+      "count": 4,
+      "blurb": {
+        "ar": "4 درجات مختلفة لتحديد ملامح الوجه وإخفاء العيوب.",
+        "en": "Four shades to define the face and cover imperfections."
+      },
+      "points": [
+        {
+          "ar": "بتخفي البقع وآثار الحبوب واحمرار الوجه",
+          "en": "Covers spots, blemish marks and redness"
+        },
+        {
+          "ar": "بتكنسل الهالات السودا",
+          "en": "Cancels dark circles"
+        },
+        {
+          "ar": "قوام كريمى وسهل التوزيع",
+          "en": "Creamy and easy to blend"
+        }
+      ]
+    },
+    {
+      "id": "desert-glow",
+      "brand": "Forever 52",
+      "name": {
+        "ar": "باليت هايلايتر Desert Glow",
+        "en": "Desert Glow Highlighter"
+      },
+      "cat": "face",
+      "count": 4,
+      "blurb": {
+        "ar": "باليت هايلايتر 4 درجات، لمسة واحدة بتدي لمعان يكمّل اللوك.",
+        "en": "A four-shade highlighter palette; one touch finishes the look."
+      },
+      "points": [
+        {
+          "ar": "4 درجات مختلفة",
+          "en": "Four different shades"
+        },
+        {
+          "ar": "بتنوّر الوش وتكمّل اللوك النهائي",
+          "en": "Brightens the face and completes the look"
+        },
+        {
+          "ar": "ثباتها قوي",
+          "en": "Long-lasting"
+        }
+      ]
+    },
+    {
+      "id": "liquid-eyeliner",
+      "brand": "Forever 52",
+      "name": {
+        "ar": "ايلاينر Miracle Liquid",
+        "en": "Miracle Liquid Eyeliner"
+      },
+      "cat": "eyes",
+      "count": 4,
+      "blurb": {
+        "ar": "سواد فحمي وثابت جدًا، ماط وسهل في الاستخدام.",
+        "en": "Charcoal black, very long-lasting, matte and easy to use."
+      },
+      "points": [
+        {
+          "ar": "السن رفيع ومرن",
+          "en": "Fine, flexible tip"
+        },
+        {
+          "ar": "يساعدك في رسم الايلاينر وتحديد العين",
+          "en": "Helps draw liner and define the eye"
+        },
+        {
+          "ar": "ووتربروف",
+          "en": "Waterproof"
+        }
+      ]
+    },
+    {
+      "id": "kohl-pencil",
+      "brand": "Forever 52",
+      "name": {
+        "ar": "قلم كحل Kohl Pencil",
+        "en": "Kohl Pencil"
+      },
+      "cat": "eyes",
+      "count": 4,
+      "blurb": {
+        "ar": "كحل طري وسلس ووتربروف وثابت، متوفر أسود ونود.",
+        "en": "Soft, smooth, waterproof and long-wearing. Available in black and nude."
+      },
+      "points": [
+        {
+          "ar": "الأسود سواده داكن ومناسب للعين الحساسة",
+          "en": "Deep black, suitable for sensitive eyes"
+        },
+        {
+          "ar": "النود لونه طبيعي لتوسعة العين وتظبيط الخطوط",
+          "en": "The nude opens the eye and tidies lines"
+        },
+        {
+          "ar": "مش بيسيح",
+          "en": "Does not smudge"
+        }
+      ]
+    },
+    {
+      "id": "lip-liner",
+      "brand": "Forever 52",
+      "name": {
+        "ar": "قلم تحديد شفاه Perfect Lip Liner",
+        "en": "Perfect Lip Liner"
+      },
+      "cat": "lips",
+      "count": 4,
+      "blurb": {
+        "ar": "يحدد الشفايف ويعملها كونتور، كريمي وسلس في الاستخدام.",
+        "en": "Defines and contours the lips, creamy and smooth to apply."
+      },
+      "points": [
+        {
+          "ar": "ترسمي شفايفك بدقة وبدون أخطاء",
+          "en": "Draws precisely without mistakes"
+        },
+        {
+          "ar": "ثابت طول اليوم، ناعم ومات بدون لمعة",
+          "en": "Lasts all day, soft and matte"
+        },
+        {
+          "ar": "مقاوم للماء",
+          "en": "Water resistant"
+        }
+      ]
+    },
+    {
+      "id": "all-in-one-mascara",
+      "brand": "SHEGLAM",
+      "name": {
+        "ar": "مسكارا All In One",
+        "en": "All In One Mascara"
+      },
+      "cat": "eyes",
+      "count": 4,
+      "blurb": {
+        "ar": "مسكارا 2×1 بلون بني، تكثيف وإطالة للرموش من أول طبقة.",
+        "en": "A 2-in-1 brown mascara: volume and length from the first coat."
+      },
+      "points": [
+        {
+          "ar": "فيها فرشتين: واحدة للتكثيف وواحدة للإطالة",
+          "en": "Two brushes: one for volume, one for length"
+        },
+        {
+          "ar": "مش بتكتّل",
+          "en": "No clumping"
+        },
+        {
+          "ar": "مضادة للماء",
+          "en": "Waterproof"
+        }
+      ]
+    },
+    {
+      "id": "crystal-blushlighter",
+      "brand": "SHEGLAM",
+      "name": {
+        "ar": "بلاشر وهايلايتر Crystal 2 In 1",
+        "en": "Crystal 2 In 1 Blushlighter"
+      },
+      "cat": "face",
+      "count": 4,
+      "blurb": {
+        "ar": "بلاشر وهايلايتر مع بعض: توريد للخدود مع لمعة الكريستال.",
+        "en": "Blush and highlighter in one: a natural flush with crystal glow."
+      },
+      "points": [
+        {
+          "ar": "لمسة واحدة تدّي توريد يبان طبيعي",
+          "en": "One touch gives a natural flush"
+        },
+        {
+          "ar": "الاتنين بيندمجوا مع بعض ويكمّلوا اللوك",
+          "en": "Both blend together to finish the look"
+        },
+        {
+          "ar": "جديد من شيجلام",
+          "en": "New from SHEGLAM"
+        }
+      ],
+      "tag": {
+        "ar": "جديد",
+        "en": "New"
+      }
+    },
+    {
+      "id": "foundation-brush",
+      "brand": "SHEGLAM",
+      "name": {
+        "ar": "فرشة فاونديشن Hydrating",
+        "en": "Hydrating Foundation Brush"
+      },
+      "cat": "tools",
+      "count": 4,
+      "blurb": {
+        "ar": "فرشة مصممة خصيصًا للفاونديشن، شعيرات ناعمة وكثيفة.",
+        "en": "A brush made for foundation, with soft dense bristles."
+      },
+      "points": [
+        {
+          "ar": "توزيع الفاونديشن بسهولة",
+          "en": "Spreads foundation easily"
+        },
+        {
+          "ar": "تغطية كاملة بدون إهدار",
+          "en": "Full coverage without waste"
+        },
+        {
+          "ar": "من غير ما تسيب خطوط",
+          "en": "Leaves no streaks"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "ar": "المنتجات أصلية؟",
+        "en": "Are the products original?"
+      },
+      "a": {
+        "ar": "أيوه، إحنا Original cosmetics store زي ما مكتوب في صفحتنا، وبنبيع منتجات أصلية.",
+        "en": "Yes. As our page says, we are an original cosmetics store."
+      }
+    },
+    {
+      "q": {
+        "ar": "الأسعار كام؟",
+        "en": "What are the prices?"
+      },
+      "a": {
+        "ar": "الأسعار بتختلف حسب المنتج والمتاح، فاسألينا على المنتج اللي عايزاه في الرسايل أو على الموبايل ونرد عليكي فورًا.",
+        "en": "Prices depend on the product and availability. Ask us about the item in messages or by phone and we will reply right away."
+      }
+    },
+    {
+      "q": {
+        "ar": "فين المحل؟",
+        "en": "Where is the store?"
+      },
+      "a": {
+        "ar": "في شارع المهندسين، أسيوط، 71511.",
+        "en": "El Mohandeseen Street, Assiut, 71511."
+      }
+    },
+    {
+      "q": {
+        "ar": "أقدر أسأل عن منتج مش معروض هنا؟",
+        "en": "Can I ask about a product that is not listed?"
+      },
+      "a": {
+        "ar": "طبعًا، ابعتيلنا اسم المنتج أو صورته وهنقولك المتاح.",
+        "en": "Of course. Send us the product name or a photo and we will tell you what we have."
+      }
+    }
+  ],
+  "contact": {
+    "whatsapp": "201065352900",
+    "phone": "01065352900",
+    "email": "",
+    "instagram": "https://www.instagram.com/glosscosmeticsassiut/",
+    "facebook": "https://www.facebook.com/GlossCosmeticsAssiut",
+    "tiktok": "",
+    "address": {
+      "ar": "شارع المهندسين، أسيوط، مصر — 71511",
+      "en": "El Mohandeseen St, Assiut, Egypt — 71511"
+    },
+    "hours": {
+      "ar": "مفتوح دائمًا",
+      "en": "Always open"
+    },
+    "map": "https://www.google.com/maps/search/?api=1&query=%D8%B4%D8%A7%D8%B1%D8%B9+%D8%A7%D9%84%D9%85%D9%87%D9%86%D8%AF%D8%B3%D9%8A%D9%86+%D8%A3%D8%B3%D9%8A%D9%88%D8%B7"
+  }
+}
